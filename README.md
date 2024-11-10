@@ -12,7 +12,10 @@ Installation Steps
 1) Install Python: Download and install Python from the official website.
 2) Verify Python and pip Installation: Open a terminal and run:
 
-![image](https://github.com/user-attachments/assets/f6d2ed62-cc25-40c0-a1a0-e791b3d22db0)
+![Alt Text for Image]
+
+![image](https://github.com/user-attachments/assets/9f6f36e9-b0a8-4ebc-9a68-77a9efb162d1)
+
 
 Install Flask: Install Flask using pip:
 
